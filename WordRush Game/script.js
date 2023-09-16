@@ -93,6 +93,30 @@ let words = [
   {
     word: "library",
     hint: "Place containing collection of books"
+  },
+  {
+    word: "resume",
+    hint: "Tells about yourself"
+  },
+  {
+    word: "okra",
+    hint: "Resembles to fingers of a feamle"
+  },
+  {
+    word: "photograph",
+    hint: "Full of memories"
+  },
+  {
+    word: "candy",
+    hint: "Most people love eating them"
+  },
+  {
+    word: "pajamas",
+    hint: "Many developers prefer wearing them at work"
+  },
+  {
+    word: "autonomy",
+    hint: "A self-governing country or region"
   }
 ];
 
